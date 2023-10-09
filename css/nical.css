@@ -1,0 +1,108 @@
+.sppb-addon{
+    margin-top: 50px;
+    margin-bottom: 35px;
+    font-size: 200%;
+    color: rgb(255, 0, 0);
+    margin-left: 200px;
+}
+.education{
+    font-size: 150%;
+    display: flex;
+    background-color: rgb(4, 4, 165);
+    margin-top: 20px;
+    color: #fff;
+}
+.education .education-text{
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+}
+.education .education-skills{
+    margin-top: 30px;
+    margin-right: 100px;
+}
+.education .education-number{
+    margin-left: 230px;
+    margin-top: 30px;
+}
+.eachelor{
+    font-size: 100%;
+    display: flex;
+    background-color: rgb(214, 214, 216);
+    color: #5b5b5b;
+}
+.degree{
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+}
+.skills{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 130px;
+}
+.number{
+    margin-left: 240px;
+    margin-top: 30px;
+}
+.marketing{
+    font-size: 100%;
+    display: flex;
+    color: #5b5b5b;
+}
+.marketing{
+    font-size: 100%;
+    display: flex;
+    color: #5b5b5b;
+}
+.finance{
+    font-size: 100%;
+    display: flex;
+    background-color: rgb(214, 214, 216);
+    color: #5b5b5b;
+}
+.skill{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 65px;
+}
+.computer{
+    font-size: 100%;
+    display: flex;
+    color: #5b5b5b;
+}
+.science{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+
+.electricity{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.engineering{
+    font-size: 100%;
+    display: flex;
+    color: #5b5b5b;
+}
+.construction{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+/* footer */
+#sp-footer, #sp-bottom1 {
+    background: #171717;
+    color: #FFFFFF;
+}
+
+#sp-bottom1 {
+    padding: 60px 0 60px;
+    font-size: 14px;
+    line-height: 1.6;
+    display: flex;
+}

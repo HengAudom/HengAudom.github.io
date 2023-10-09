@@ -1,0 +1,140 @@
+/* Google Maps iframe */
+footer {
+    text-align: center;
+  }
+/* register */
+h2{
+   margin-left: 600px;
+  }
+  
+  .Get-in-touch{
+    margin-left: 200px;
+    font-size: 170%;
+    height: 100px;
+    margin-top: 20px;
+  }
+  .all-control {
+    margin-left: 300px;
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+  }
+  .sppb-form-control{
+    margin-top: 10px;
+  }
+  
+  .nametext {
+    width: 8cm;
+    padding: 10px 0;
+    font-size: 20px;
+  }
+  .emailtext {
+    width: 8cm;
+    padding: 10px 0;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .subjecttext{
+    width: 8cm;
+    padding: 10px 0;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .messagetext{
+    width: 8cm;
+    padding: 10px 0;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .Inform{
+    font-size: medium;
+    margin-left: 10px;
+    margin-right: 50px;
+    padding: 0%;
+  }
+  .flix{
+    display:flex;
+  }
+  
+  /* form */
+  .bx{
+    font-size: 500%;
+  }
+  .bxl-gmail{
+    font-size: 500%;
+  }
+  .Get-in-touch .flix .Inform .emgil{
+    margin-top: 50px;
+  }
+  
+  .Get-in-touch .flix .Inform .phone{
+    margin-top: 50px;
+  }
+  .sppb-media, .sppb-media-body {
+    overflow: hidden;
+    zoom: 1;
+  }
+  .sppb-media>.pull-left {
+    margin-right: 5px;
+  }
+  .pull-left {
+    float: left!important;
+  }
+  .sppb-media-heading1{
+    margin-top: 25px;
+  }
+  /* button */
+  .sppb-btn-success {
+    color: #fff;
+    background-color: #23cf5f;
+    border-color: #23cf5f;
+  }
+  
+  .sppb-btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: pre-line;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 8px 12px;
+    font-size: 16px;
+    line-height: 1.25;
+    border-radius: 4px;
+    transition: all .15s ease-in-out;
+  }
+  .button, select {
+    text-transform: none;
+  }
+  .button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+  .button {
+    border-radius: 0;
+  }
+  .button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+  
+/* footer */
+#sp-footer, #sp-bottommap {
+  background: #171717;
+  color: #FFFFFF;
+}
+
+#sp-bottommap {
+  margin-top: 480px;
+  padding: 60px 0 60px;
+  font-size: 14px;
+  line-height: 1.6;
+  display: flex;
+}
